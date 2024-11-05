@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.button{
+  background-color: black;
+  color: aliceblue;
+  border: 2px solid black;
+}
